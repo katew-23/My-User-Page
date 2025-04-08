@@ -30,7 +30,7 @@ git push
 Here's a joke I like:
 > There are 10 kinds of people in the world: those who understand binary and those who don’t.
 
-Feel free to connect through [LinkedIn Page](https://www.linkedin.com/in/kate-wang-174593244/)!
+Feel free to connect through [LinkedIn](https://www.linkedin.com/in/kate-wang-174593244/)!
 
 ## About me as a Person
 
