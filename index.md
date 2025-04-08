@@ -50,4 +50,4 @@ Outside of code, I’m an international student who loves playing Ultimate Frisb
 \
 [Read Me File](README.md)
 
-Back to Top [↑](#hi-im-kate-wang!)
+Back to Top [↑](#hi-im-kate-wang)
