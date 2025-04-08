@@ -1,4 +1,4 @@
- # Hi, I'm Kate Wang!
+# Hi, I'm Kate Wang!
 
 ## About Me as a Programmer
 I'm a *Computer Science* major studying at *UC San Diego* with a strong interest in AI and Software Development.
